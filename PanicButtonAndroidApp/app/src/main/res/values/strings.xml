@@ -4,6 +4,7 @@
     <string name="panic">Panic!</string>
     <string name="gps_position_title">Your GPS location:</string>
     <string name="comma">,</string>
+    <string name="zero">0</string>
     <string name="address_title">Address:</string>
     <string name="obtaining">Obtaining...</string>
 </resources>
