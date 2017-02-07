@@ -1,10 +1,11 @@
 <resources>
     <string name="app_name">PanicButtonAndroidApp</string>
-    <string name="wait_text">Wait until the device is located...</string>
+    <string name="wait_text">Wait until the device is located…</string>
     <string name="panic">Panic!</string>
     <string name="gps_position_title">Your GPS location:</string>
     <string name="comma">,</string>
     <string name="zero">0</string>
     <string name="address_title">Address:</string>
-    <string name="obtaining">Obtaining...</string>
+    <string name="obtaining">Obtaining…</string>
+    <string name="not_implemented">This function is not yet implemented</string>
 </resources>

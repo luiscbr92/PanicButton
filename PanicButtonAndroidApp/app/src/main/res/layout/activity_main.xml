@@ -99,7 +99,7 @@
             android:textStyle="normal|bold" />
 
         <TextView
-            android:text="@string/obtaining"
+            android:text="@string/not_implemented"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/addressText" />
